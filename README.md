@@ -1,2 +1,2 @@
 # Hello-JS
-Обучение Java Script
+Обучение Java Script 
